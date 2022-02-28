@@ -1,3 +1,3 @@
 # Interpretable, Personalized and Reliable Prediction Models
 
-## Development of a new clinical decision support system
+Code used for the development of new clinical decision support system - Python version.
